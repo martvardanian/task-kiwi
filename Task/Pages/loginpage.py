@@ -1,7 +1,7 @@
 import time
 from Data.info_convertor import *
 from Locators.locators import GenericLocators, LoginLocators
-from Pages.basepage import BasePage
+from Task.Pages.basepage import BasePage
 
 
 class LoginPage(BasePage):

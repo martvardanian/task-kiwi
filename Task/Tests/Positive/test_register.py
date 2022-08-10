@@ -1,6 +1,6 @@
 from Locators.locators import RegisterLocators
-from Pages.basepage import BasePage
-from Pages.registerpage import RegisterPage
+from Task.Pages.basepage import BasePage
+from Task.Pages.registerpage import RegisterPage
 from Tests.basetest import BaseTest
 from Configs.configs import Urls
 

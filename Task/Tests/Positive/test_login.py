@@ -1,5 +1,4 @@
-from Pages.basepage import BasePage
-from Pages.loginpage import LoginPage
+from Task.Pages.loginpage import LoginPage
 from Tests.basetest import BaseTest
 from Configs.configs import Urls
 

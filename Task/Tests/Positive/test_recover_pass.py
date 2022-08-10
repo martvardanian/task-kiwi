@@ -1,6 +1,6 @@
 from Locators.locators import ForgotPasswordLocators
-from Pages.basepage import BasePage
-from Pages.recoverpasswordpage import RecoverPasswordPage
+from Task.Pages.basepage import BasePage
+from Task.Pages.recoverpasswordpage import RecoverPasswordPage
 from Tests.basetest import BaseTest
 from Configs.configs import Urls
 
