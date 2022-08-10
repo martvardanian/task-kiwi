@@ -1,0 +1,12 @@
+{
+  "users": {
+    "new_user": {
+      "email": "kiwi_test_mart@email.com",
+      "password": "123456"
+    },
+    "verified_user": {
+      "email": "martvardanian@gmail.com",
+      "password": "123456"
+    }
+  }
+}
