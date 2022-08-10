@@ -1,6 +1,6 @@
 import time
-from Data.info_convertor import *
-from Locators.locators import GenericLocators, LoginLocators
+from Task.Data.info_convertor import *
+from Task.Locators.locators import GenericLocators, LoginLocators
 from Task.Pages.basepage import BasePage
 
 
